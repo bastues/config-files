@@ -38,3 +38,17 @@ wget https://raw.githubusercontent.com/bastues/config-files/main/kitty/kitty.con
 
 **POWERSHELL 10K** | Estos archivos son un fork del los archivos de configuracion de que se muestran en el video del creador *s4vitar* (enlace en la descripcion) con ciertas modificaciones para ajuatarlo a nuestro gusto 
 https://www.youtube.com/watch?v=fshLf6u8B-w&t=3581s (minuto: 1:17:57)
+```
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
+echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+```
+(root)
+```
+usermod –shell /usr/bin/zsh root
+ln -s -f /home/jorge/.zshrc /root/.zshrc
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
+echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+cd
+rm .p10k.zsh
+wget https://raw.githubusercontent.com/bastues/config-files/main/p10k/root/.p10k.zsh
+```
