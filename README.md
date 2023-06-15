@@ -44,7 +44,7 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 ```
 ```
 rm .p10.zsh
-https://raw.githubusercontent.com/bastues/config-files/main/p10k/user/.p10k.zsh
+wget https://raw.githubusercontent.com/bastues/config-files/main/p10k/user/.p10k.zsh
 ```
 (root)
 ```
