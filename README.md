@@ -16,7 +16,6 @@ wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/plugins/sudo/sudo.
 https://github.com/rxyhn/tokyo/tree/main/config/kitty
 ```
 sudo apt install kitty
-
 ---------------------------------------------------------------------------------------------------
 
 sudo update-alternatives --config x-terminal-emulator
@@ -26,7 +25,6 @@ sudo update-alternatives --config x-terminal-emulator
 sudo apt install zsh-syntax-highlighting zsh-autosuggestions
 
 ---------------------------------------------------------------------------------------------------
-
 cd /usr/share
 mkdir zsh-sudo
 chown usuario:grupo zsh-sudo
