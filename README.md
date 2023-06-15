@@ -17,11 +17,9 @@ https://github.com/rxyhn/tokyo/tree/main/config/kitty
 ```
 sudo apt install kitty
 ---------------------------------------------------------------------------------------------------
-
 sudo update-alternatives --config x-terminal-emulator
 
 ---------------------------------------------------------------------------------------------------
-
 sudo apt install zsh-syntax-highlighting zsh-autosuggestions
 
 ---------------------------------------------------------------------------------------------------
