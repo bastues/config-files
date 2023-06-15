@@ -31,7 +31,7 @@ sudo apt install kitty
 sudo update-alternatives --config x-terminal-emulator
 ```
 ```
-cd /.config/kitty
+cd .config/kitty
 wget https://raw.githubusercontent.com/bastues/config-files/main/kitty/color.ini
 wget https://raw.githubusercontent.com/bastues/config-files/main/kitty/kitty.conf
 ```
