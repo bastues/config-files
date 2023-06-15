@@ -42,6 +42,10 @@ https://www.youtube.com/watch?v=fshLf6u8B-w&t=3581s (minuto: 1:17:57)
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 ```
+```
+rm .p10.zsh
+https://raw.githubusercontent.com/bastues/config-files/main/p10k/user/.p10k.zsh
+```
 (root)
 ```
 usermod –shell /usr/bin/zsh root
