@@ -4,6 +4,7 @@ https://s4vitar.github.io/bspwm-configuration-files/
 '''
 sudo apt install zsh-syntax-highlighting zsh-autosuggestions
 '''
+
 '''
 cd /usr/share  
 mkdir zsh-sudo  
