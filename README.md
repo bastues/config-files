@@ -3,10 +3,12 @@
 https://s4vitar.github.io/bspwm-configuration-files/  
 '''
 sudo apt install zsh-syntax-highlighting zsh-autosuggestions
-cd /usr/share
-mkdir zsh-sudo
-chown usuario:grupo zsh-sudo
-cd zsh-sudo
+'''
+'''
+cd /usr/share  
+mkdir zsh-sudo  
+chown usuario:grupo zsh-sudo  
+cd zsh-sudo  
 wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/plugins/sudo/sudo.plugin.zsh
 '''
 
