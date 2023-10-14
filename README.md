@@ -35,6 +35,9 @@ cd .config/kitty
 wget https://raw.githubusercontent.com/bastues/config-files/main/kitty/color.ini
 wget https://raw.githubusercontent.com/bastues/config-files/main/kitty/kitty.conf
 ```
+```
+Default Aplications > Utilities > kitty
+```
 
 **POWERSHELL 10K** | Estos archivos son un fork del los archivos de configuracion de que se muestran en el video del creador *s4vitar* (enlace en la descripcion) con ciertas modificaciones para ajuatarlo a nuestro gusto 
 https://www.youtube.com/watch?v=fshLf6u8B-w&t=3581s (minuto: 1:17:57)
