@@ -49,7 +49,7 @@ echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 rm .p10k.zsh
 wget https://raw.githubusercontent.com/bastues/config-files/main/p10k/user/.p10k.zsh
 ```
-(root) *cambia el nombre de usuario en el link simbolico*
+(root) **cambia el nombre de usuario en el link simbolico**
 ```
 usermod –shell /usr/bin/zsh root
 ln -s -f /home/usuario/.zshrc /root/.zshrc
