@@ -5,7 +5,7 @@ https://s4vitar.github.io/bspwm-configuration-files/
 sudo apt install zsh
 ```
 ```
-sudo usermod --shell /usr/bin/zsh proyecto
+sudo usermod --shell /usr/bin/zsh <nombre usuario>
 ```
 ```
 rm .zshrc
