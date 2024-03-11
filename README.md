@@ -59,3 +59,10 @@ cd
 rm .p10k.zsh
 wget https://raw.githubusercontent.com/bastues/config-files/main/p10k/root/.p10k.zsh
 ```
+**GPG** | Configuracion del gpg para que la cache no alamacene la contraseña en cache
+```
+cd .gnupg
+nano gpg-agent.conf
+```
+
+
