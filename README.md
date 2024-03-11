@@ -64,6 +64,8 @@ wget https://raw.githubusercontent.com/bastues/config-files/main/p10k/root/.p10k
 cd .gnupg
 nano gpg-agent.conf
 wget https://raw.githubusercontent.com/bastues/config-files/main/gpg-agent.conf
+gpgconf --kill gpg-agent
+gpgconf --launch gpg-agent
 ```
 
 
