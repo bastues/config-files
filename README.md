@@ -67,7 +67,7 @@ wget https://raw.githubusercontent.com/bastues/config-files/main/gpg-agent.conf
 gpgconf --kill gpg-agent
 gpgconf --launch gpg-agent
 ```
-**Fonts** Instalar fuente custom de [nerd fonts] (https://www.nerdfonts.com/font-downloads)
+**Fonts** Instalar fuente custom de [nerd fonts](https://www.nerdfonts.com/font-downloads)
 ```diff
 cd /usr/share/fonts
 sudo mkdir Customfont
