@@ -59,7 +59,7 @@ cd
 rm .p10k.zsh
 wget https://raw.githubusercontent.com/bastues/config-files/main/p10k/root/.p10k.zsh
 ```
-[!CAUTION] Asegurate en el link simbolico el modifcar el nombre del usuario
+[!CAUTION]Asegurate en el link simbolico el modifcar el nombre del usuario
 
 **GPG** | Configuracion del gpg para que la cache no alamacene la contraseña en cache
 ```
