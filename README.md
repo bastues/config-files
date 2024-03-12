@@ -68,7 +68,7 @@ gpgconf --kill gpg-agent
 gpgconf --launch gpg-agent
 ```
 **Fonts** Instalar fuente custom de nerd fonts https://www.nerdfonts.com/font-downloads
-```
+```diff
 cd /usr/share/fonts
 sudo mkdir Customfont
 cd Customfont
