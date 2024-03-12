@@ -73,7 +73,7 @@ cd /usr/share/fonts
 sudo mkdir Customfont
 cd Customfont
 wget https://www.nerdfonts.com/font-downloads
-unzip -"fuente.zip"
+-unzip "fuente.zip"
 ```
 
 
