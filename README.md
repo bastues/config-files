@@ -50,7 +50,7 @@ rm .p10k.zsh
 wget https://raw.githubusercontent.com/bastues/config-files/main/p10k/user/.p10k.zsh
 ```
 (root) **cambia el nombre de usuario en el link simbolico**
-[!CAUTION]
+[CAUTION]
 Asegurate en el link simbolico el modifcar el nombre del usuario.
 ```
 usermod –shell /usr/bin/zsh root
