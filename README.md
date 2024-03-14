@@ -22,11 +22,7 @@ sudo chown usuario:grupo zsh-sudo
 cd zsh-sudo
 sudo wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/plugins/sudo/sudo.plugin.zsh
 ```
-
-
-
-
-
+<br>
 ## KITTY
 Estos archivo es un fork del archivos de [rxyhn](https://github.com/rxyhn/tokyo/tree/main/config/kitty
 ) con ciertas modificaciones para ajuatarlo a nuestro gusto 
