@@ -1,5 +1,5 @@
->[CAUTION]
->Asegurate en el link simbolico el modifcar el nombre del usuario.
+> [CAUTION]
+> Asegurate en el link simbolico el modifcar el nombre del usuario.
 # config-files
 **ZSHRC** | Esta archivo a sido un fork de arhivo de *s4vitar* (enlace abajo) con ciertas modificaciones para ajuatarlo a nuestro gusto
 https://s4vitar.github.io/bspwm-configuration-files/  
