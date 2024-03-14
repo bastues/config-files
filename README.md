@@ -1,4 +1,5 @@
-<center> # config-files </center>
+<h1 align="center">Config-Files</h1>
+
 ## ZSHRC
 Esta archivo es un fork de arhivo de [s4vitar](https://s4vitar.github.io/bspwm-configuration-files/) con ciertas modificaciones para ajuatarlo a nuestro gusto
 
@@ -41,8 +42,10 @@ wget https://raw.githubusercontent.com/bastues/config-files/main/kitty/kitty.con
 ```
 Default Aplications > Utilities > kitty
 ```
+<br>
 
-**POWERSHELL 10K** | Estos archivos son un fork del los archivos de configuracion de que se muestran en el video del creador *s4vitar* (enlace en la descripcion) con ciertas modificaciones para ajuatarlo a nuestro gusto 
+## POWERSHELL 10K
+Estos archivos son un fork del los archivos de configuracion de que se muestran en el video del creador *s4vitar* (enlace en la descripcion) con ciertas modificaciones para ajuatarlo a nuestro gusto 
 https://www.youtube.com/watch?v=fshLf6u8B-w&t=3581s (minuto: 1:17:57)
 ```
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
@@ -63,7 +66,10 @@ cd
 rm .p10k.zsh
 wget https://raw.githubusercontent.com/bastues/config-files/main/p10k/root/.p10k.zsh
 ```
-**GPG** | Configuracion del gpg para que la cache no alamacene la contraseña en cache
+<br>
+
+## GPG
+Configuracion del gpg para que la cache no alamacene la contraseña en cache
 ```
 cd .gnupg
 nano gpg-agent.conf
