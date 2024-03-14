@@ -1,4 +1,4 @@
-# config-files
+<center># config-files</center>center>
 ## ZSHRC
 Esta archivo es un fork de arhivo de [s4vitar](https://s4vitar.github.io/bspwm-configuration-files/) con ciertas modificaciones para ajuatarlo a nuestro gusto
 
