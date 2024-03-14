@@ -1,3 +1,5 @@
+[CAUTION]
+Asegurate en el link simbolico el modifcar el nombre del usuario.
 # config-files
 **ZSHRC** | Esta archivo a sido un fork de arhivo de *s4vitar* (enlace abajo) con ciertas modificaciones para ajuatarlo a nuestro gusto
 https://s4vitar.github.io/bspwm-configuration-files/  
@@ -50,8 +52,6 @@ rm .p10k.zsh
 wget https://raw.githubusercontent.com/bastues/config-files/main/p10k/user/.p10k.zsh
 ```
 (root) **cambia el nombre de usuario en el link simbolico**
-[CAUTION]
-Asegurate en el link simbolico el modifcar el nombre del usuario.
 ```
 usermod –shell /usr/bin/zsh root
 ln -s -f /home/usuario/.zshrc /root/.zshrc
