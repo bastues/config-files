@@ -23,8 +23,9 @@ cd zsh-sudo
 sudo wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/plugins/sudo/sudo.plugin.zsh
 ```
 
-**KITTY** | Estos archivo es un fork del archivos de *rxyhn* (enalace abajo) con ciertas modificaciones para ajuatarlo a nuestro gusto 
-https://github.com/rxyhn/tokyo/tree/main/config/kitty
+## KITTY
+Estos archivo es un fork del archivos de [rxyhn](https://github.com/rxyhn/tokyo/tree/main/config/kitty
+) con ciertas modificaciones para ajuatarlo a nuestro gusto 
 ```
 sudo apt install kitty
 ```
