@@ -56,7 +56,7 @@ rm .p10k.zsh
 wget https://raw.githubusercontent.com/bastues/config-files/main/p10k/user/.p10k.zsh
 ```
 > [!CAUTION]
-> Agregacion de zsh y powershell en root, asegurate de modificar en el enlace simbolico tu usuario local
+> Agregacion de zsh y powershell en root, asegurate de modificar en el enlace simbolico con tu usuario local
 ```
 usermod –shell /usr/bin/zsh root
 ln -s -f /home/usuario/.zshrc /root/.zshrc
@@ -77,7 +77,10 @@ wget https://raw.githubusercontent.com/bastues/config-files/main/gpg-agent.conf
 gpgconf --kill gpg-agent
 gpgconf --launch gpg-agent
 ```
-**Fonts** Instalar fuente custom de [nerd fonts](https://www.nerdfonts.com/font-downloads)
+<br>
+
+## Fuente
+Instalar fuente custom de [nerd fonts](https://www.nerdfonts.com/font-downloads)
 ```diff
 cd /usr/share/fonts
 sudo mkdir Customfont
