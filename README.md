@@ -81,7 +81,7 @@ gpgconf --launch gpg-agent
 <br>
 
 ## Fuente
-Instalar fuente custom de [nerd fonts](https://www.nerdfonts.com/font-downloads)
+Instalar fuentes customizadas de [nerd fonts](https://www.nerdfonts.com/font-downloads)
 ```diff
 cd /usr/share/fonts
 wget https://www.nerdfonts.com/font-downloads
