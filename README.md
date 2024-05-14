@@ -2,7 +2,7 @@
 <br>
 
 ## ZSHRC
-Esta archivo es un fork de arhivo de [s4vitar](https://s4vitar.github.io/bspwm-configuration-files/) con ciertas modificaciones para ajuatarlo a nuestro gusto
+Esta archivo es un fork de arhivo de [s4vitar](https://s4vitar.github.io/bspwm-configuration-files/) con ciertas modificaciones para ajuatarlo a mi gusto personal
 
 ```
 sudo apt install zsh
@@ -28,7 +28,7 @@ sudo wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/plugins/sudo/
 
 ## KITTY
 Estos archivo es un fork del archivos de [rxyhn](https://github.com/rxyhn/tokyo/tree/main/config/kitty
-) con ciertas modificaciones para ajuatarlo a nuestro gusto 
+) con ciertas modificaciones para ajuatarlo a mi gusto personal 
 ```
 sudo apt install kitty
 ```
@@ -46,7 +46,7 @@ Default Aplications > Utilities > kitty
 <br>
 
 ## POWERSHELL 10K
-Estos archivos son un fork del los archivos de configuracion de que se muestran en el video del creador *s4vitar* (enlace en la descripcion) con ciertas modificaciones para ajuatarlo a nuestro gusto 
+Estos archivos son un fork del los archivos de configuracion de que se muestran en el video del creador *s4vitar* (enlace en la descripcion) con ciertas modificaciones para ajuatarlo a mi gusto personal
 https://www.youtube.com/watch?v=fshLf6u8B-w&t=3581s (minuto: 1:17:57)
 ```
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
