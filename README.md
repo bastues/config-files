@@ -1,4 +1,5 @@
 <h1 align="center">Config-Files</h1>
+<img src="resultado/terminal.png" alt="Terminal">
 <br>
 
 ## ZSHRC
