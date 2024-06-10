@@ -95,6 +95,7 @@ wget https://www.nerdfonts.com/font-downloads
 sudo apt install bat
 sudo apt install lsd
 ```
+Paquete **glow** para visualizar markdown desde la terminal
 ```
 sudo mkdir -p /etc/apt/keyrings
 curl -fsSL https://repo.charm.sh/apt/gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/charm.gpg
