@@ -75,7 +75,7 @@ Configuracion del gpg para que la cache no alamacene la contraseña en cache
 ```
 cd .gnupg
 nano gpg-agent.conf
-wget https://raw.githubusercontent.com/bastues/config-files/main/gpg-agent.conf
+wget https://raw.githubusercontent.com/bastues/config-files/main/gpg/gpg-agent.conf
 gpgconf --kill gpg-agent
 gpgconf --launch gpg-agent
 ```
